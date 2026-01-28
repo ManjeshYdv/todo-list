@@ -1,6 +1,6 @@
-# Todos List App
+# Smart Task Manager
 
-A simple **Todo List** app built with **React JS**.  
+A simple **Task List** app built with **React JS**.  
 You can add, delete, and manage your tasks easily. Todos are saved in **local storage**, so they stay even after page reload.
 
 ---
